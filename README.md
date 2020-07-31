@@ -4,3 +4,5 @@
   <a href="https://zsofi.co.uk">PERSONAL WEBSITE</a> •
   <a href="https://zsofi.surge.sh">BLOG</a>
 </p>
+
+I'm currently working on my tiny mobile EPoS system [Green Food Truck](https://github.com/ZsofiaS/GreenFoodtruck).
