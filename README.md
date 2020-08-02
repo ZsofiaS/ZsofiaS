@@ -2,8 +2,9 @@
   <h1 align="center">Hi, I'm Zsofi!</h1>
 </div>
 
-I'm a software developer.
+I'm a software developer.  
 I'm currently working on my tiny mobile EPoS system [Green Food Truck](https://github.com/ZsofiaS/GreenFoodtruck).  
+
 ![](https://img.shields.io/badge/AVAILABLE_TO_WORK-YES-<brightgreen>)
 
 <div>
