@@ -1,10 +1,8 @@
 <div>
-  <img src="https://dl.dropboxusercontent.com/s/r5qnagqubk8ug4b/hpaan.jpg?dl=0" />
   <h1 align="center">Hi, I'm Zsofi!</h1>
 </div>
 
 I'm a software developer.
-
 I'm currently working on my tiny mobile EPoS system [Green Food Truck](https://github.com/ZsofiaS/GreenFoodtruck).
 ![](https://img.shields.io/badge/AVAILABLE_TO_WORK-YES-<brightgreen>)
 
