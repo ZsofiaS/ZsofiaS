@@ -3,7 +3,7 @@
 </div>
 
 I'm a software developer.  
-I'm currently working on my tiny mobile EPoS system [Green Food Truck](https://github.com/ZsofiaS/GreenFoodtruck).  #ReactNative #Redux #SQlite #Android
+I'm currently working on my tiny mobile EPoS system [Green Food Truck](https://github.com/ZsofiaS/GreenFoodtruck).  #ReactNative #Redux #Firestore #Android
 
 
 ![](https://img.shields.io/badge/AVAILABLE_TO_WORK-YES-<brightgreen>)
