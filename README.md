@@ -4,9 +4,8 @@
 
 I'm a software developer.  
 I'm currently working on two projects:
-* my tiny mobile EPoS system [Green Food Truck](https://github.com/ZsofiaS/GreenFoodtruck)  #ReactNative #Redux #Firestore #Android
-* a [morning feel good app](https://github.com/ZsofiaS/MorningApp)  
-#ReactNative #SQLite
+* my tiny mobile EPoS system [Green Food Truck](https://github.com/ZsofiaS/GreenFoodtruck)  #ReactNative #Redux #Firebase #Android
+* a [morning feel good app](https://github.com/ZsofiaS/MorningApp) #ReactNative #SQLite #Android
 
 
 ![](https://img.shields.io/badge/AVAILABLE_TO_WORK-YES-<brightgreen>)
