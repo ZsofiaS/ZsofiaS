@@ -4,11 +4,10 @@
 
 I'm a software developer.  
 I'm currently working on two projects:
-* my tiny mobile EPoS system
-  * [React Native version](https://github.com/ZsofiaS/GreenFoodtruck)  #ReactNative #Redux #Firebase #Android
-  * [React version](https://github.com/ZsofiaS/GreenFoodTruck-React) #React #Redux #Firebase #Recharts #Sass
 * a [morning feel good app](https://github.com/ZsofiaS/MorningApp) #ReactNative #SQLite #Android
-
+* my tiny mobile EPoS system
+  * [React version](https://github.com/ZsofiaS/GreenFoodTruck-React) #React #Redux #Firebase #Recharts #Sass
+  * [React Native version](https://github.com/ZsofiaS/GreenFoodtruck)  #ReactNative #Redux #Firebase #Android
 
 ![](https://img.shields.io/badge/AVAILABLE_TO_WORK-YES-<brightgreen>)
 
