@@ -9,7 +9,7 @@ I'm currently working on two projects:
   * [React version](https://github.com/ZsofiaS/GreenFoodTruck-React) #React #Redux #Firebase #Recharts #Sass
   * [React Native version](https://github.com/ZsofiaS/GreenFoodtruck)  #ReactNative #Redux #Firebase #Android
 
-![](https://img.shields.io/badge/AVAILABLE_TO_WORK-YES-<brightgreen>)
+<!-- ![](https://img.shields.io/badge/AVAILABLE_TO_WORK-YES-<brightgreen>) -->
 
 <div>
   <p align="center">
