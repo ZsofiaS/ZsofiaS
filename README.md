@@ -2,9 +2,8 @@
   <h1 align="center">Hi, I'm Zsofi!</h1>
 </div>
 
-I'm currently working on two projects:
-My [morning feel good app](https://github.com/ZsofiaS/MorningApp) #ReactNative #SQLite #Android
-My tiny mobile EPoS system
+* My [morning feel good app](https://github.com/ZsofiaS/MorningApp) #ReactNative #SQLite #Android
+* My tiny mobile EPoS system
   * [React version](https://github.com/ZsofiaS/GreenFoodTruck-React) #React #Redux #Firebase #Recharts #Sass
   * [React Native version](https://github.com/ZsofiaS/GreenFoodtruck)  #ReactNative #Redux #Firebase #Android
 
